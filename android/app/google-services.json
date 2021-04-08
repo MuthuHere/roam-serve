@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "806179462818",
+    "project_id": "roamserveuser",
+    "storage_bucket": "roamserveuser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806179462818:android:e05d61c39e3f48bdaf01fb",
+        "android_client_info": {
+          "package_name": "com.psgr.roam_serve_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806179462818-rf4bpluq9fpj1s13m4bh3k18cmi9vtgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjFrgtyYJQju2eWOxX1gb64HTEp2y4_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806179462818-rf4bpluq9fpj1s13m4bh3k18cmi9vtgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806179462818-3tldc03irtms1qkvefk2rii8tmg1gk2q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.psgr.roamServeUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
